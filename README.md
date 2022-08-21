@@ -25,4 +25,4 @@ It works by searching every single game server for avatar (it matches the cache'
 
 
 ## Extension 
-[Download] (https://www.mediafire.com/file/h3nrn3p43mbum7u/RoSearcher.rar/file)
+[Download](https://www.mediafire.com/file/h3nrn3p43mbum7u/RoSearcher.rar/file)
